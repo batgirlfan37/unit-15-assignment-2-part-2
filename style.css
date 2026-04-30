@@ -1,9 +1,6 @@
 body {
     color: rgb(0, 0, 0);
     background-color: rgb(255, 255, 255);
-}
-
-* {
     font-family: myFont;
 }
 
@@ -33,5 +30,5 @@ ul li a {
 }
 
 ul li a:hover {
-    background-color: #111111;
+    background-color: #e26e26;
 }
