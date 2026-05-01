@@ -4,8 +4,9 @@
 }
 
 .content {
-    max-width: 300px;
+    max-width: 1000px;
     margin: auto;
+
 }
 
 body {
@@ -14,33 +15,44 @@ body {
     font-family: myFont;
 }
 
-
-
 ul {
+  margin: auto;  
+  text-align: center;
   list-style-type: none;
-  margin: 0;
-  padding: 0;
+  margin: 10;
+  padding: 10;
   overflow: hidden;
   background-color: #333333;
 }
 
 ul li {
     float: left;
+    margin: auto;
+    text-align: center;
 }
 
 ul li a {
+    margin: auto;
+    text-align: center;
     display: block;
     color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    font-size: 18px;
 }
 
 ul li a:hover {
     background-color: #e26e26;
+    font-size: 20px;
 }
 
 h1 {
     letter-spacing: 3px;
-    font-size: large;
+    font-size: 50px;
+    text-align: center;
+}
+
+div.noko {
+    text-align: center;
 }
