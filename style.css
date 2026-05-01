@@ -39,3 +39,8 @@ ul li a {
 ul li a:hover {
     background-color: #e26e26;
 }
+
+h1 {
+    letter-spacing: 3px;
+    font-size: large;
+}
