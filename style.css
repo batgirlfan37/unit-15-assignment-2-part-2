@@ -15,6 +15,10 @@ body {
     font-family: myFont;
 }
 
+div.maintext {
+    text-align: center;
+}
+
 ul {
   margin: auto;  
   text-align: center;
