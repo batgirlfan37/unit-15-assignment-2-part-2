@@ -58,6 +58,7 @@ h1 {
 
 div.noko {
     text-align: center;
+    margin: 150px;
 }
 
 .imageflex { display: flex; }
