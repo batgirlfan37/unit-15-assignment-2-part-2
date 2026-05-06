@@ -84,7 +84,7 @@ div.noko {
 }
 
 hr {
-    height: 4400px;
+    size: 5px;
 }
 
 .imageflex { display: flex; }
