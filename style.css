@@ -83,5 +83,9 @@ div.noko {
     margin: 150px;
 }
 
+hr {
+    width: 200%;
+}
+
 .imageflex { display: flex; }
 .imageflexcontent { margin-left: 5px; margin-top: 0; }
