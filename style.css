@@ -68,6 +68,14 @@ h3 {
     margin: 0px;
 }
 
+h1.a {
+    text-align: right;
+}
+
+h2.a {
+    text-align: right;
+}
+
 div.noko {
     text-align: center;
     margin: 150px;
