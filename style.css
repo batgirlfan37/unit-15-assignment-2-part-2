@@ -70,10 +70,12 @@ h3 {
 
 h1.a {
     text-align: right;
+    margin-right: 5px;
 }
 
-h2.a {
+h2.b {
     text-align: right;
+    margin-right: 5px;
 }
 
 div.noko {
