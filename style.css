@@ -80,8 +80,15 @@ h3.b {
 
 div.noko {
     text-align: center;
-    margin: 100px;
+    margin: 50px;
 }
+
+div.noko2 {
+    text-align: center;
+    margin: 50px;
+    padding: 25px;
+}
+
 
 p.right {
     text-align: right;
@@ -93,3 +100,8 @@ p.left {
 
 .imageflex { display: flex; }
 .imageflexcontent { margin-left: 5px; margin-top: 0; }
+
+footer {
+    text-align: center;
+    font-size: 20px;
+}
