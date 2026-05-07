@@ -109,6 +109,12 @@ p.left {
     text-align: left;
 }
 
+p.left2 {
+    text-align: left;
+    font-size: 400px;
+}
+
+
 .imageflex { display: flex; }
 .imageflexcontent { margin-left: 5px; margin-top: 0; }
 
