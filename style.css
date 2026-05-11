@@ -136,6 +136,7 @@ p.left2 {
 
 footer {
     text-align: center;
+    margin: auto;
     font-size: 20px;
     padding: 10px;
 }
