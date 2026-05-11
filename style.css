@@ -108,6 +108,7 @@ div.noko2 {
     margin: 50px;
     padding: 25px;
     word-spacing: 50px;
+    object-fit: fill;
 }
 
 
