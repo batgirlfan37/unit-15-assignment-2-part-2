@@ -115,6 +115,15 @@ div.noko2 {
     object-fit: cover;
 }
 
+div.row {
+    display: flex;
+}
+
+div.column {
+    flex: 33.33%;
+    padding: 25px;
+    text-align: center;
+}
 
 p.right {
     text-align: right;
@@ -124,7 +133,6 @@ p.right2 {
     text-align: right;
     font-size: 130%
 }
-
 
 p.left {
     text-align: left;
