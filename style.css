@@ -83,6 +83,10 @@ h3 {
     margin: 0px;
 }
 
+h3.c {
+    text-align: center;    
+}
+
 h2.a {
     text-align: right;
     margin-right: 5px;
