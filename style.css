@@ -144,7 +144,7 @@ p.left2 {
 }
 
 .imageflex { display: flex; }
-.imageflexcontent { margin-left: 5px; margin-top: 0; }
+.imageflexcontent { margin-left: 5px; margin-top: 0; font-size: 125%; }
 
 footer {
     text-align: center;
