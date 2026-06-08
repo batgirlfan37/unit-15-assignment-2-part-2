@@ -146,9 +146,16 @@ p.left2 {
 .imageflex { display: flex; }
 .imageflexcontent { margin-left: 5px; margin-top: 0; font-size: 125%; }
 
+div.contact {
+    text-align: center;
+    margin: auto;
+    font-size: 21px;
+}
+
 footer {
     text-align: center;
     margin: auto;
     font-size: 20px;
     padding: 10px;
 }
+
